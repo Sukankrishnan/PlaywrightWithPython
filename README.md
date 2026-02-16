@@ -10,6 +10,6 @@
 
     To activate venv, use command 'venv_name\Scripts\activate' for Windows
 
-3. To install Playwright, use command 'pip install playwright'
+3. To install Playwright, use command 'pip install playwright' and check the version using 'playwright --version'
 
      To upgrade playwright, use 'pip install playwright -U'
