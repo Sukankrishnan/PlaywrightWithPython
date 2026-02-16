@@ -16,4 +16,4 @@
 
 4. Install browser binaries.
 
-    Command: playwright install
+    Command: playwright install (It will install Chromium, Firefox and Webkit for testing)
