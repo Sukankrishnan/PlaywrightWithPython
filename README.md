@@ -13,3 +13,7 @@
 3. To install Playwright, use command 'pip install playwright' and check the version using 'playwright --version'
 
      To upgrade playwright, use 'pip install playwright -U'
+
+4. Install browser binaries.
+
+    Command: playwright install
